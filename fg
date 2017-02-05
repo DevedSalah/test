@@ -1,0 +1,10 @@
+<ArrayOfLaunch xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/RNLI.WebAPI.BusinessObjects">
+<Launch>
+<COACS>560</COACS>
+<Id>183718</Id>
+<LaunchDate>2017-02-05T13:12:06</LaunchDate>
+<ShortName>Red Bay</ShortName>
+<Title>Red Bay, Antrim</Title>
+<Website>rnli.org/RedBay</Website>
+</Launch>
+</ArrayOfLaunch>
